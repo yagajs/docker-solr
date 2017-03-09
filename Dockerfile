@@ -1,4 +1,4 @@
-FROM solr:latest
+FROM solr:6.3.0-alpine
 
 MAINTAINER Arne Schubert <atd.schubert@gmail.com>
 
