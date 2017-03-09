@@ -1,4 +1,4 @@
-FROM solr:latest
+FROM solr:6.4.1
 
 MAINTAINER Arne Schubert <atd.schubert@gmail.com>
 
